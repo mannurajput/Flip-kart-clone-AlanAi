@@ -1,0 +1,47 @@
+.card {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+
+
+}
+
+.card:hover {
+    cursor: pointer;
+    border: 0.1px solid gray;
+}
+
+.image {
+    height: 290px;
+}
+
+.image:hover {
+    width: 280px;
+
+}
+
+.price {
+    color: gray;
+    font-style: str;
+}
+
+.svg {
+    color: gray;
+}
+
+.name {
+    color: blue;
+}
+
+.cart {
+  
+    justify-content: right;
+   
+}
+.count{
+    color: blue;
+    font-weight: 900;
+
+}

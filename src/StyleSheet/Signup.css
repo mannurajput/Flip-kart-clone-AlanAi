@@ -1,0 +1,70 @@
+.signn {
+  display: flex;
+  background-color: bisque;
+}
+
+.phone>input {
+  object-position: right;
+  width: 780px;
+  border: none;
+  margin-top: 50px;
+  margin-left: 20px;
+  outline: none;
+  text-decoration-line: underline;
+  height: 50px;
+
+
+}
+
+.password>input {
+
+  outline: none;
+  border: none;
+  margin-top: 150px;
+  margin-left: -785px;
+  text-decoration-line: underline;
+  height: 50px;
+  width: 780px;
+}
+
+.login>button {
+
+  height: 50px;
+  width: 600px;
+  margin-top: 300px;
+  margin-left: -400px;
+  background-color: orange;
+  cursor: pointer;
+  font-weight: 900;
+  color: white;
+
+}
+
+.sign>button {
+
+
+
+  margin-top: 360px;
+  background-color: white;
+  margin-left: -600px;
+  width: 600px;
+  height: 50px;
+  color: blue;
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.h {
+  margin-top: 160px;
+  margin-left: -400px;
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.h2 {
+  margin-top: 400px;
+  margin-left: -700px;
+}
